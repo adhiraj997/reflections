@@ -18,3 +18,6 @@ Answer: Hhmm.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 Answer: Hhmmm.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Answer: HAHAHA.
